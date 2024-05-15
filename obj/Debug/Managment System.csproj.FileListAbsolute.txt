@@ -14,3 +14,4 @@ C:\Users\Plus Computers\source\repos\Managment System\Managment System\obj\Debug
 C:\Users\Plus Computers\source\repos\Managment System\Managment System\obj\Debug\Managment System.exe
 C:\Users\Plus Computers\source\repos\Managment System\Managment System\obj\Debug\Managment System.pdb
 C:\Users\Plus Computers\source\repos\Managment System\Managment System\bin\Debug\Managment System.pdb
+C:\Users\Plus Computers\source\repos\Managment System\Managment System\obj\Debug\Managment_System.RegisterForm.resources
